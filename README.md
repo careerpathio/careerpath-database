@@ -1,6 +1,6 @@
 # CareerPath Database
 
-[![Techroad](https://awesome.re/badge.svg)](https://community.techroad.io)
+[![Techroad](https://shields.io/badge/Techroad-blue?logo=appveyor](https://community.techroad.io)
 
 ## 개요
 
@@ -14,3 +14,4 @@
 1. 목록은 공개된 내용에 기반하여 작성합니다. 이 목록을 다른 프로젝트의 기반 데이터로 사용하셔도 Great! 단, 해당 프로젝트에 이 목록을 사용(또는 참고)했다 정도로만 남겨주세요.
 1. 개인 블로그는 db.yml, 단체 블로그는 db_community.yml, 컨퍼런스는 db_session.json 파일을 업데이트 해주세요.
     1. 이 목록을 이용한 2차 저작 환영합니다.
+
