@@ -1,7 +1,6 @@
 # CareerPath Database
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Gitter chat](https://badges.gitter.im/awesome-devblog/Lobby.png)](https://gitter.im/awesome-devblog/Lobby "Gitter chat")
+[![Techroad](https://awesome.re/badge.svg)](https://community.techroad.io)
 
 ## 개요
 
