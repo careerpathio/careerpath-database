@@ -1,6 +1,6 @@
 # CareerPath Database
 
-[![Techroad](https://shields.io/badge/Techroad-blue?logo=appveyor]](https://community.techroad.io)
+[![Techroad](https://shields.io/badge/Techroad-blue?logo=appveyor)](https://community.techroad.io)
 
 ## 개요
 
